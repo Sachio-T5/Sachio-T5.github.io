@@ -301,7 +301,7 @@ sup > a::before,
 }
 html,
 body {
-  font-size: 16px;
+  font-size: 18px;
   font-family: var(--font-family-sans-serif);
 }
 html,
@@ -902,7 +902,6 @@ img[srcset] {
   line-height: 1.5;
   border-radius: 3px;
   tab-size: 4;
-
 }
 .markdown-body pre .mermaid {
   text-align: center;
