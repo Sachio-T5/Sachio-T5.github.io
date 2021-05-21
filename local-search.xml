@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>秘密</title>
+    <link href="/2021/05/21/Secret/"/>
+    <url>/2021/05/21/Secret/</url>
+    
+    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="2fe4d9f864313018941069886d63e3a965f4e43eb1cbae1f88df762e5ffbaa0b">e72224b5b91b43f86582a683301246bb07c26a2b9b8d9089c555b11db55c7e8fd8d3aaa5855214a804caea8558e41329f822335aa2d01667b2737eea7a312feb8333970b3cb847b85bc5909192e49905</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    
+    
+    <categories>
+      
+      <category>随笔</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>T5</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>如何用GitHub+hexo搭建个人博客</title>
     <link href="/2021/05/19/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
     <url>/2021/05/19/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
@@ -13,7 +38,7 @@
     
     <categories>
       
-      <category>hexo</category>
+      <category>Hexo</category>
       
     </categories>
     
