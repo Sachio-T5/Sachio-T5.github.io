@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://sachio.vercel.app/2021/05/21/%E8%AF%95%E8%AF%95%E6%96%B0%E5%8A%9F%E8%83%BD/</loc>
+    <loc>https://sachio.vercel.app/2021/05/06/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%A0%E5%BA%94%E8%AF%A5%E4%BB%8E%E7%8E%B0%E5%9C%A8%E5%BC%80%E5%A7%8B%E5%86%99%E5%8D%9A%E5%AE%A2/</loc>
     
     <lastmod>2021-05-23</lastmod>
     
@@ -22,13 +22,6 @@
     
   </url>
   
-  <url>
-    <loc>https://sachio.vercel.app/2021/05/06/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%A0%E5%BA%94%E8%AF%A5%E4%BB%8E%E7%8E%B0%E5%9C%A8%E5%BC%80%E5%A7%8B%E5%86%99%E5%8D%9A%E5%AE%A2/</loc>
-    
-    <lastmod>2021-05-21</lastmod>
-    
-  </url>
-  
 
   <url>
     <loc>https://sachio.vercel.app/</loc>
@@ -40,13 +33,6 @@
   
   <url>
     <loc>https://sachio.vercel.app/tags/Sachio/</loc>
-    <lastmod>2021-05-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sachio.vercel.app/tags/T5/</loc>
     <lastmod>2021-05-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
